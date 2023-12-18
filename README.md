@@ -1,3 +1,4 @@
+# 'This project is tested with BrowserStack'
 # Pet Adoption App - Flutter
 
 - Preview video: https://youtu.be/4CSpZXLTH2Y
